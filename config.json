@@ -1,0 +1,10 @@
+{
+  "api": {
+    "cardInfoBase": "https://aikatsucode.github.io/p-qr-data",
+    "ajax": "https://aikatsu.shop/ajax.php?url="
+  },
+  "cardInfo": {
+    "promoVersion": [520901],
+    "versionBase": 520000
+  }
+}
